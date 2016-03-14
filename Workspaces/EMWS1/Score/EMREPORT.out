@@ -1,0 +1,69 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Class Variable Summary Statistics
+
+Data Role=TRAIN Output Type=CLASSIFICATION
+
+             Numeric    Formatted    Frequency
+Variable      Value       Value        Count      Percent
+
+I_WidgBuy       .          NO             9          45  
+I_WidgBuy       .          YES           11          55  
+
+
+Data Role=TRAIN Output Type=SEGMENT
+
+             Numeric    Formatted    Frequency
+Variable      Value       Value        Count      Percent
+
+b_WidgBuy        2         2             1            5  
+b_WidgBuy        3         3             1            5  
+b_WidgBuy        4         4             1            5  
+b_WidgBuy        5         5             1            5  
+b_WidgBuy        6         6             2           10  
+b_WidgBuy        7         7             2           10  
+b_WidgBuy        9         9             1            5  
+b_WidgBuy       10         10            1            5  
+b_WidgBuy       11         11            1            5  
+b_WidgBuy       12         12            1            5  
+b_WidgBuy       13         13            1            5  
+b_WidgBuy       14         14            1            5  
+b_WidgBuy       15         15            1            5  
+b_WidgBuy       16         16            1            5  
+b_WidgBuy       17         17            1            5  
+b_WidgBuy       19         19            1            5  
+b_WidgBuy       20         20            2           10  
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Interval Variable Summary Statistics
+
+Variable Name=P_WidgBuyNo
+
+Statistics    Label                  TRAIN
+
+  MEAN        Mean                   0.4499
+  STD         Standard Deviation     0.5101
+  N           Non Missing           20.0000
+  MIN         Minimum                0.0001
+  P25         25th Percentile        0.0001
+  MEDIAN      Median                 0.0003
+  P75         75th Percentile        0.9996
+  MAX         Maximum                0.9997
+
+
+Variable Name=P_WidgBuyYes
+
+Statistics    Label                  TRAIN
+
+  MEAN        Mean                   0.5501
+  STD         Standard Deviation     0.5101
+  N           Non Missing           20.0000
+  MIN         Minimum                0.0003
+  P25         25th Percentile        0.0004
+  MEDIAN      Median                 0.9997
+  P75         75th Percentile        0.9999
+  MAX         Maximum                0.9999

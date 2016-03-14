@@ -1,0 +1,63 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Variable Summary
+
+                  Measurement    Frequency
+Role                 Level         Count
+
+ASSESS             BINARY            1    
+ASSESS             NOMINAL           1    
+CLASSIFICATION     NOMINAL           3    
+INPUT              INTERVAL          4    
+INPUT              NOMINAL           2    
+PREDICT            INTERVAL          2    
+REJECTED           INTERVAL          2    
+REJECTED           NOMINAL           1    
+RESIDUAL           INTERVAL          2    
+SEGMENT            NOMINAL           2    
+TARGET             BINARY            1    
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+
+The CONTENTS Procedure
+
+Data Set Name        EMWS1.FIMPORT2_DATA           Observations          9 
+Member Type          DATA                          Variables             6 
+Engine               V9                            Indexes               0 
+Created              10/27/2015 13:22:40           Observation Length    40
+Last Modified        10/27/2015 13:22:40           Deleted Observations  0 
+Protection                                         Compressed            NO
+Data Set Type                                      Sorted                NO
+Label                                                                      
+Data Representation  WINDOWS_64                                            
+Encoding             wlatin1  Western (Windows)                            
+
+
+                                             Engine/Host Dependent Information
+
+Data Set Page Size          65536                                                                                           
+Number of Data Set Pages    1                                                                                               
+First Data Page             1                                                                                               
+Max Obs per Page            1632                                                                                            
+Obs in First Data Page      9                                                                                               
+Number of Data Set Repairs  0                                                                                               
+ExtendObsCounter            YES                                                                                             
+Filename                    C:\Users\bteric01\Documents\Tutorials_Projects\Project_2\Workspaces\EMWS1\fimport2_data.sas7bdat
+Release Created             9.0401M1                                                                                        
+Host Created                X64_7PRO                                                                                        
+
+
+           Alphabetic List of Variables and Attributes
+ 
+#    Variable     Type    Len    Format    Informat    Label
+
+1    Age          Num       8    BEST.                 Age      
+6    Income       Char      4    $4.       $4.         Income   
+3    Residence    Char      3    $3.       $3.         Residence
+2    X2           Num       8    BEST.                 X2       
+4    X4           Num       8    BEST.                 X4       
+5    X5           Num       8    BEST.                 X5       

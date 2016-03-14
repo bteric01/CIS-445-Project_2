@@ -1,0 +1,51 @@
+*------------------------------------------------------------*
+User:                bteric01
+Date:                October 27, 2015
+Time:                13:26:17
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+                  Measurement    Frequency
+Role                 Level         Count
+ 
+ASSESS             NOMINAL           1
+CLASSIFICATION     NOMINAL           3
+INPUT              INTERVAL          4
+INPUT              NOMINAL           2
+PREDICT            INTERVAL          2
+RESIDUAL           INTERVAL          2
+SEGMENT            NOMINAL           1
+TARGET             BINARY            1
+ 
+ 
+ 
+                                                                                                2
+User       = bteric01
+Date       = 13:26:12  October 27
+Project    = Project_2
+Diagram    = Diagram_1
+ 
+Start Node = Report
+Node label = Model Comparison
+Nodes      = PATH
+Showall    = N
+ 
+Format     = PDF
+Graphics   = GIF
+Style      = LISTING
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
